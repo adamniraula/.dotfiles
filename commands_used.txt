@@ -1,0 +1,428 @@
+#1725461569
+gedit
+#1725461612
+gedit aniraula_lab_00.txt
+#1725461663
+hostname
+#1725461672
+whoami
+#1725461927
+cd Desktop/
+#1725462030
+touch
+#1725462112
+cs/
+#1725462116
+cd/
+#1725462120
+cd /
+#1725462187
+pwd
+#1725462397
+ls
+#1726066326
+pwd
+#1726066348
+ls -a
+#1726066392
+vi .vimrc
+#1726066793
+cat .vimrc
+#1726066881
+vim .vimrc
+#1726067131
+cp
+#1726067396
+cat .vimrc
+#1726067432
+cp .virmc 
+#1726067717
+cp .vimrc ~/Desktop/aniraula_lab02_guided.txt
+#1726067788
+cd Desktop/
+#1726067838
+cat aniraula_lab02_guided.txt
+#1726067881
+cd Desktop/
+#1726067937
+cd Desktop
+#1726067946
+cd Desktop/
+#1726067973
+cd  ~/Desktop/aniraula_lab02_guided.txt
+#1726068013
+cd Desktop/
+#1726068059
+cd Desktop/aniraula_lab02_guided.txt
+#1726068108
+cd desktop/
+#1726068212
+ls
+#1726068219
+cat
+#1726068238
+cat aniraula_lab02_guided.txt 
+#1727880615
+mkdir csce215
+#1727880638
+cd csce215
+#1727880674
+mkdir aniraula_lab03
+#1727880692
+cd aniraula_lab03/
+#1727880715
+touch script.sh aniraula_lab03.txt
+#1727880718
+ls
+#1727880737
+vi script.sh
+#1730079581
+hostname
+#1730079585
+whoami
+#1730079590
+date
+#1730575841
+git config --global user.name "Adam Niraula"
+#1730576127
+git config --global user.name Adam Niraula
+#1730576158
+git config --global user.email adamniraula@gmail.com
+#1730576465
+git config --global --list
+#1730576503
+/.config
+#1730576542
+nano ~/.config
+#1730577055
+mkdir github
+#1730577060
+cd github
+#1730577081
+ssh-keygen -t ed25519 -a 203 -f ./id_ed25519
+#1730577877
+cat ~/.ssh/id_ed25519.pub
+#1730578006
+cat /.ssh/id_ed25519.pub
+#1730578399
+ls
+#1730578431
+cat /.id_ed25519.pub
+#1730578446
+cat ~/.id_ed25519.pub
+#1730578695
+cd ~/.ssh
+#1730578720
+cat id_ed25519.pub
+#1730578922
+ls -l
+#1730578930
+ls
+#1730578975
+find ~ -name "id_ed25519.pub
+find ~ -name id_ed25519.pub
+
+ls -l ~/.ssh
+/ls
+ls
+ls -l
+#1730579412
+git config --global user.name Adam Niraula
+#1730579447
+git config -- user.email adamniraula@gmail.com
+#1730579489
+git config --global user.email adamniraula@gmail.com
+#1730579507
+ls.-la ~
+#1730579518
+ls -la~
+#1730579528
+ls -la ~
+#1730579549
+cd ~/.ssh
+#1730579564
+mkdir ~/.ssh
+#1730579601
+cd ~/.ssh
+#1730579611
+touch config
+#1730579620
+nano config
+#1730579814
+mkdir github
+#1730579825
+cd github
+#1730579857
+ssh-keygen -t ed25519 -a 203 -f ./id_ed25519
+#1730579885
+ls -la
+#1730579950
+cat id_ed25519.pub
+#1730580026
+sudo apt-get install xclip 
+#1730580087
+xclip -sel clip < id_ed25519.pub
+#1730580253
+cd ~
+#1730580266
+mkdir .dotfiles
+#1730580277
+ls -la
+#1730580306
+cd .dotfiles
+#1730580309
+pwd
+#1730580323
+touch README.md
+#1730580331
+vim README.md
+#1730580666
+cd-
+#1730580670
+cd -
+#1730580675
+cd ~
+#1730580695
+mkdirn .dotfiles
+#1730580704
+mkdir .dotfiles
+#1730580714
+ls -la
+#1730580734
+cd .dotfiles
+#1730580738
+pwd
+#1730580764
+vim README.md
+#1730581133
+vim hi
+#1730581245
+ls -la
+#1730581257
+cd .dotfiles
+#1730581262
+pwd
+#1730581277
+touch README.md
+#1730581283
+vim README.md
+#1730581427
+cd ~
+#1730581435
+mkdir .dotfiles
+#1730581439
+ls -la
+#1730581448
+cd .dotfiles
+#1730581450
+pwd
+#1730581459
+touch README.md
+#1730581472
+vim README.md
+#1730581568
+cd ~
+#1730581578
+mkdir .dotfiles
+#1730581586
+ls ~la
+#1730581589
+la -la
+#1730581598
+cd .dotfiles
+#1730581601
+pwd
+#1730581616
+touch README.md
+#1730581629
+Vim README.md
+#1730581654
+vim README.md
+#1730581843
+cd ~
+#1730581866
+mkdir .dotfiles
+#1730581871
+ls -la
+#1730581885
+cd .dotfiles
+#1730581888
+pwd
+#1730581897
+touch README.md
+#1730581908
+vim README.md
+#1730582227
+wq
+#1730582238
+:wq
+#1730582251
+vim README.md
+#1730582276
+cat README.md
+#1730582341
+vim README.md
+#1730582385
+nano .nanorc
+#1730582567
+cp .nanorc ~/
+#1730582582
+git init
+#1730582652
+.vim README.md
+#1730582662
+vim README.md
+#1730582882
+vim REAME.md
+#1730583280
+qa
+#1730583293
+vim README.md
+#1730583519
+nano .nanorc
+#1730583592
+git init
+#1730583605
+git add --all
+#1730583631
+git commit -m "INIT commit"
+#1730583655
+git branch -M main
+#1730583916
+git remote add origin git@github.com:<AdamNir>/.dotfiles.git
+#1730583973
+git remote add origin git@github.com:<adamniraula@gmail.com>/.dotfiles.git
+#1730584033
+git push -u origin main 
+#1730584103
+git remote add origin git@github.com:<AdamNir>/.dotfiles.git
+#1730584349
+git remote add origin git@github.com:<@AdamNir>/.dotfiles.git
+#1730584394
+git config --local credential.helper ""
+#1730584406
+git push origin master
+#1730584429
+git config --local credential.helper ""
+#1730584437
+git push origin master
+#1730584569
+git remote add origin git@github.com:<adamniraula@gmail.com>/.dotfiles
+#1730584651
+git config --global user.name Adam Niraula
+#1730584698
+git config --global user.email adamniraula@gmail.com
+#1730584744
+git remote add origin git@github.com:<adamniraula@gmail.com>/.dotfiles
+#1730584952
+git config --global Adam Niraula
+#1730584976
+git config --global user.name Adam Niraula
+#1730585006
+git config --global user.email adamniraula@gmail.com
+#1730585020
+ls -la ~
+#1730585224
+cd ~/.ssh
+#1730585245
+mkdir ~/.ssh
+#1730585266
+touch config
+#1730585296
+nano config
+#1730585533
+cd .dotfiles
+#1730585563
+cd
+#1730585568
+cd .dotfiles
+#1730585571
+cd
+#1730585580
+git confid -list
+#1730585670
+cat ~/.gitconfig
+#1730585697
+cd
+#1730585762
+cd .dotfiles
+#1730585787
+cp .nanorc ~/
+#1730585794
+git init
+#1730585808
+git add --all
+#1730585830
+git commit -m "INIT commit"
+#1730585854
+git branch -M main
+#1730585895
+git remote add origin git@github.com:<Adam>/.dotfiles
+#1730585909
+git remote add origin git@github.com:<adam>/.dotfiles
+#1730586009
+cd
+#1730586030
+git config --get-alluser.name 
+#1730586060
+git config -e
+#1730586092
+git config --global --unset-all user.name
+#1730586133
+cat ~/.gitconfig
+#1730586181
+git config --global user.name AdamNir
+#1730586200
+cat ~/.gitconfig
+#1730586232
+git remote add origin git@github.com:<AdamNir>/.dotfiles
+#1730586360
+cd .dotfiles
+#1730586472
+git remote add origin git@github.com:<AdamNir>/.dotfiles
+#1730586491
+git push -u origin main
+#1730586612
+git remote add origin git@github.com:<adam>/.dotfiles
+#1730664659
+cd ~/Desktop
+#1730664682
+mkdir aniraula_lab05
+#1730664698
+cd aniraula_lab05
+#1730664710
+touch lab05.sh
+#1730664728
+vim lab05.sh
+#1730665348
+chmod +x lab05.sh
+#1730665379
+bash ./lab05.sh > username_lab05.out
+#1730665426
+bash ./lab05.sh > aniraula_lab05.out
+#1730665447
+cat aniraula_lab05.out
+#1730665475
+cd ..
+#1730665630
+tar -zcvf aniraula_lab05.tar.gz aniraula_lab05
+#1730666915
+git config --global user.name Adam Niraula
+#1730666974
+git config --global user.email adamniraula@gmail.com
+#1730667000
+cd~
+#1730667003
+cd ~
+#1730667015
+mkdir -p .ssh
+#1730667020
+cd .ssh
+#1730667033
+nano config
+#1730667096
+cd id_ed25519.pub
+#1734022012
+[200~git config --global user.name "Firstname Lastname"
+#1734022012
+git config --global user.email "your_github_email@domain.com"
